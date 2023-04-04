@@ -9,7 +9,6 @@ Glad to see you here ! ⚡ ![visitors](https://visitor-badge.glitch.me/badge?pag
 My name is Clovis and I am a first-year student in computer engineering (3 years post HS graduation) at EPITA.
 I discovered my love for computer science during my last year of high school, and I am happy to have a place in this constantly evolving field today.
 At my school, I am a teaching assistant in programming for first-year students, and I have also been elected as the president of the student union on my campus.
-I have had a passion for classic cars since I was little, and one of my biggest dreams is to one day restore a 1967 Ford Mustang Fastback.
 Thank you, and I hope to collaborate with you someday!
 
 
