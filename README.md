@@ -6,7 +6,8 @@ Glad to see you here ! ⚡ ![visitors](https://visitor-badge.glitch.me/badge?pag
 
 
 
-My name is Clovis and I am a first-year student in computer engineering (3 years post HS graduation) at EPITA.
+My name is Clovis and I am a fourth-year student in computer engineering (4 years post HS graduation) at EPITA.
+I am currently majoring in Artificial Intelligence - Computer Vision.
 I discovered my love for computer science during my last year of high school, and I am happy to have a place in this constantly evolving field today.
 At my school, I am a teaching assistant in programming for first-year students, and I have also been elected as the president of the student union on my campus.
 Thank you, and I hope to collaborate with you someday!
