@@ -2,7 +2,7 @@
 
 
 
-Glad to see you here ! ⚡ ![visitors](https://visitor-badge.glitch.me/badge?page_id=${ClovisDyArx}.${609893612}) ⚡
+Glad to see you here ! ⚡<!--- ![visitors](https://visitor-badge.glitch.me/badge?page_id=${ClovisDyArx}.${609893612}) ⚡ -->
 
 
 
@@ -29,14 +29,10 @@ Thank you, and I hope to collaborate with you someday!
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/ClovisDyArx/ClovisDyArx)
 
 
-
+<!--- 
 My Github Stats: 🔭
 
-
-
-
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ClovisDyArx&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ClovisDyArx&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> -->
 
 <!--
 **ClovisDyArx/ClovisDyArx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
